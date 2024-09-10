@@ -1,5 +1,10 @@
 # Changelogs
 
+## v2.7.0 - 10/09/2024
+
+## News
+- Update server ip (Thanks to @JediFay)
+
 
 ## v2.6.0 - 3/19/2023
 
